@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there, I'm Itai 👋
 
-<!--
-**ItaiNulman/ItaiNulman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Data & Information Engineering student** (4th year) at the **Technion**, passionate about the intersection of scalable data systems and intelligent algorithms.
 
-Here are some ideas to get you started:
+My background combines rigorous academic training in **Computer Science and Data Science**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy solving complex problems where technical engineering meets human decision-making patterns.
+
+#### 🛠️ Tech Stack
+* **Languages:** Python, SQL, Java(OOP), C, R
+* **Data Engineering & Cloud:** PySpark, Distributed Data Management, Microsoft Azure, Linux, Git
+* **Machine Learning & Analytics:** Scikit-learn, PyTorch, NetworkX, Graph Algorithms
+
+#### 🎯 Areas of Interest
+* **Data Engineering:** Building robust ETL processes and handling distributed data.
+* **Strategic ML:** Algorithms in uncertain scenarios, Game Theory, and Multi-Armed Bandits.
+* **Decision Science:** Modeling cognitive networks and human-factor data analysis.
+
+---
+[LinkedIn](www.linkedin.com/in/itai-nulman) • [Email](itai0882@gmail.com)
