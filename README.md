@@ -7,7 +7,7 @@ My background combines rigorous academic training in **Computer Science and Data
 I enjoy solving complex problems where technical engineering meets human decision-making patterns.
 
 #### 🛠️ Tech Stack
-* **Languages:** Python, SQL, Java(OOP), C, R
+* **Languages:** Python, SQL, Java(OOP), C
 * **Data Engineering & Cloud:** PySpark, Distributed Data Management, Microsoft Azure, Linux, Git
 * **Machine Learning & Analytics:** Scikit-learn, PyTorch, NetworkX, Graph Algorithms
 
